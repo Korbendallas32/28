@@ -2,7 +2,7 @@ from faker import Faker
 
 URL = 'https://b2c.passport.rt.ru'
 
-PATH = "drivers/chromedriver"
+PATH = "driver/chromedriver"
 
 valid_email = 'TEST_VALID_EMAIL'
 valid_phone = 'TEST_VALID_PHONE (+79106174688)'
