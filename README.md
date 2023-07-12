@@ -12,7 +12,7 @@ TASK №28
 * [base_page.py](https://github.com/Korbendallas32/28/blob/main/base_page.py) — базовые функции и методы.
 * базовые требования от Заказчика прикреплены отдельным файлом
 
-* [Test_cases&bugs](https://docs.google.com/spreadsheets/d/1V4PyTFD7Q12WPleeteiedlJzJGOlK8BuoGLdENxyi5A/edit?usp=sharing)
+* [Test_cases&bugs](https://docs.google.com/spreadsheets/d/1V4PyTFD7Q12WPleeteiedlJzJGOlK8BuoGLdENxyi5A/edit?usp=sharing) — Тест-кейсы и баги
 
 Техники тест-дизайна: 
  
