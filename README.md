@@ -25,5 +25,5 @@ TASK №28
 
 Как запустить тесты:
 1. установить все библиотеки и зависимости: `pip install -r requirements.txt`;
-2. загрузите [Selenium WebDriver](https://chromedriver.chromium.org/downloads) → Выбрать совместимую версию → Gрописать путь к драйверу в переменную PATH в файле config.py;
+2. загрузите [Selenium WebDriver](https://chromedriver.chromium.org/downloads) → Выбрать совместимую версию → Прописать путь к драйверу в переменную PATH в файле config.py;
 3. запустить тест: `python -m pytest -v --driver Chrome --driver-path 28/interface_test.py`.
